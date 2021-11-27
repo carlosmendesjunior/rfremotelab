@@ -1,0 +1,510 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 6
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text GLabel 3500 4100 0    70   BiDi ~ 0
+G1
+Wire Wire Line
+	4500 4800 4500 5000
+Text GLabel 4500 5000 3    70   BiDi ~ 0
+DN1
+Wire Wire Line
+	4600 4800 4600 5000
+Text GLabel 4600 5000 3    70   BiDi ~ 0
+G2
+Wire Wire Line
+	4800 4800 4800 5000
+Text GLabel 4800 5000 3    70   BiDi ~ 0
+SN2
+Wire Wire Line
+	4900 4800 4900 5000
+Text GLabel 4900 5000 3    70   BiDi ~ 0
+DN2
+Wire Wire Line
+	5100 4800 5100 5000
+Text GLabel 5100 5000 3    70   BiDi ~ 0
+G3
+Wire Wire Line
+	5200 4800 5200 5000
+Text GLabel 5200 5000 3    70   BiDi ~ 0
+SN3
+Wire Wire Line
+	6000 4400 6200 4400
+Text GLabel 6200 4400 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	2275 6100 2475 6100
+Text GLabel 2475 6100 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	2275 6400 2475 6400
+Text GLabel 2475 6400 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	2275 6700 2475 6700
+Wire Wire Line
+	3750 6100 3950 6100
+Text GLabel 3950 6100 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	3750 6400 3950 6400
+Text GLabel 3950 6400 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	3750 6700 3950 6700
+Text GLabel 3950 6700 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	5250 6100 5450 6100
+Text GLabel 5450 6100 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	5250 6400 5450 6400
+Text GLabel 5450 6400 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	5250 6700 5450 6700
+Text GLabel 5450 6700 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	8000 4000 7800 4000
+Text GLabel 8000 4000 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	6700 6100 6900 6100
+Text GLabel 6900 6100 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	6700 6400 6900 6400
+Text GLabel 6900 6400 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	6700 6700 6900 6700
+Text GLabel 6900 6700 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	8175 6100 8375 6100
+Text GLabel 8375 6100 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	8175 6400 8375 6400
+Text GLabel 8375 6400 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	8175 6700 8375 6700
+Text GLabel 8375 6700 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	9625 6100 9825 6100
+Text GLabel 9825 6100 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	9625 6400 9825 6400
+Text GLabel 9825 6400 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	9625 6700 9825 6700
+Text GLabel 9825 6700 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	7600 4600 7800 4600
+Text GLabel 7800 4600 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	6000 4100 6200 4100
+Text GLabel 6200 4100 2    70   BiDi ~ 0
+D3
+Wire Wire Line
+	6000 3800 6200 3800
+Text GLabel 6200 3800 2    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	1775 6100 1975 6100
+Text GLabel 1775 6100 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	1775 6400 1975 6400
+Text GLabel 1775 6400 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	1775 6700 1975 6700
+Text GLabel 1775 6700 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	3250 6100 3450 6100
+Text GLabel 3250 6100 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	3250 6400 3450 6400
+Text GLabel 3250 6400 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	3250 6700 3450 6700
+Text GLabel 3250 6700 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	4750 6100 4950 6100
+Text GLabel 4750 6100 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	4750 6400 4950 6400
+Text GLabel 4750 6400 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	4750 6700 4950 6700
+Text GLabel 4750 6700 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	7100 4000 6900 4000
+Wire Wire Line
+	7675 6100 7875 6100
+Text GLabel 7675 6100 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	7675 6400 7875 6400
+Text GLabel 7675 6400 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	7675 6700 7875 6700
+Text GLabel 7675 6700 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	9125 6100 9325 6100
+Text GLabel 9125 6100 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	9125 6400 9325 6400
+Text GLabel 9125 6400 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	9125 6700 9325 6700
+Text GLabel 9125 6700 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	7100 4600 7300 4600
+Text GLabel 7100 4600 0    70   BiDi ~ 0
+VDD
+Text GLabel 5200 3400 1    70   BiDi ~ 0
+SP3
+Text GLabel 4900 3400 1    70   BiDi ~ 0
+DP2
+Text GLabel 4800 3400 1    70   BiDi ~ 0
+SP2
+$Comp
+L CD4007_Platform_V7-eagle-import:C-EUC0603K C1
+U 1 1 24F56349
+P 2075 6100
+AR Path="/24F56349" Ref="C1"  Part="1" 
+AR Path="/6193BDFD/24F56349" Ref="C1"  Part="1" 
+F 0 "C1" H 2135 6115 59  0000 L BNN
+F 1 "C-EUC0603K" H 2135 5915 59  0000 L BNN
+F 2 "CD4007_Platform_V7:C0603K" H 2075 6100 50  0001 C CNN
+F 3 "" H 2075 6100 50  0001 C CNN
+	1    2075 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:C-EUC0603K C2
+U 1 1 4071D1F9
+P 2075 6400
+AR Path="/4071D1F9" Ref="C2"  Part="1" 
+AR Path="/6193BDFD/4071D1F9" Ref="C2"  Part="1" 
+F 0 "C2" H 2135 6415 59  0000 L BNN
+F 1 "C-EUC0603K" H 2135 6215 59  0000 L BNN
+F 2 "CD4007_Platform_V7:C0603K" H 2075 6400 50  0001 C CNN
+F 3 "" H 2075 6400 50  0001 C CNN
+	1    2075 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:C-EUC0603K C3
+U 1 1 00CB58E1
+P 2075 6700
+AR Path="/00CB58E1" Ref="C3"  Part="1" 
+AR Path="/6193BDFD/00CB58E1" Ref="C3"  Part="1" 
+F 0 "C3" H 2135 6715 59  0000 L BNN
+F 1 "C-EUC0603K" H 2135 6515 59  0000 L BNN
+F 2 "CD4007_Platform_V7:C0603K" H 2075 6700 50  0001 C CNN
+F 3 "" H 2075 6700 50  0001 C CNN
+	1    2075 6700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:C-EUC0603K C4
+U 1 1 8B5AD75A
+P 3550 6100
+AR Path="/8B5AD75A" Ref="C4"  Part="1" 
+AR Path="/6193BDFD/8B5AD75A" Ref="C4"  Part="1" 
+F 0 "C4" H 3610 6115 59  0000 L BNN
+F 1 "C-EUC0603K" H 3610 5915 59  0000 L BNN
+F 2 "CD4007_Platform_V7:C0603K" H 3550 6100 50  0001 C CNN
+F 3 "" H 3550 6100 50  0001 C CNN
+	1    3550 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:C-EUC0603K C5
+U 1 1 A35C59BC
+P 3550 6400
+AR Path="/A35C59BC" Ref="C5"  Part="1" 
+AR Path="/6193BDFD/A35C59BC" Ref="C5"  Part="1" 
+F 0 "C5" H 3610 6415 59  0000 L BNN
+F 1 "C-EUC0603K" H 3610 6215 59  0000 L BNN
+F 2 "CD4007_Platform_V7:C0603K" H 3550 6400 50  0001 C CNN
+F 3 "" H 3550 6400 50  0001 C CNN
+	1    3550 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:C-EUC0603K C6
+U 1 1 0CFD014E
+P 3550 6700
+AR Path="/0CFD014E" Ref="C6"  Part="1" 
+AR Path="/6193BDFD/0CFD014E" Ref="C6"  Part="1" 
+F 0 "C6" H 3610 6715 59  0000 L BNN
+F 1 "C-EUC0603K" H 3610 6515 59  0000 L BNN
+F 2 "CD4007_Platform_V7:C0603K" H 3550 6700 50  0001 C CNN
+F 3 "" H 3550 6700 50  0001 C CNN
+	1    3550 6700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:C-EUC0603K C7
+U 1 1 49F108FA
+P 5050 6100
+AR Path="/49F108FA" Ref="C7"  Part="1" 
+AR Path="/6193BDFD/49F108FA" Ref="C7"  Part="1" 
+F 0 "C7" H 5110 6115 59  0000 L BNN
+F 1 "C-EUC0603K" H 5110 5915 59  0000 L BNN
+F 2 "CD4007_Platform_V7:C0603K" H 5050 6100 50  0001 C CNN
+F 3 "" H 5050 6100 50  0001 C CNN
+	1    5050 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:C-EUC0603K C8
+U 1 1 2F4B506D
+P 5050 6400
+AR Path="/2F4B506D" Ref="C8"  Part="1" 
+AR Path="/6193BDFD/2F4B506D" Ref="C8"  Part="1" 
+F 0 "C8" H 5110 6415 59  0000 L BNN
+F 1 "C-EUC0603K" H 5110 6215 59  0000 L BNN
+F 2 "CD4007_Platform_V7:C0603K" H 5050 6400 50  0001 C CNN
+F 3 "" H 5050 6400 50  0001 C CNN
+	1    5050 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:C-EUC0603K C9
+U 1 1 7D4536D2
+P 5050 6700
+AR Path="/7D4536D2" Ref="C9"  Part="1" 
+AR Path="/6193BDFD/7D4536D2" Ref="C9"  Part="1" 
+F 0 "C9" H 5110 6715 59  0000 L BNN
+F 1 "C-EUC0603K" H 5110 6515 59  0000 L BNN
+F 2 "CD4007_Platform_V7:C0603K" H 5050 6700 50  0001 C CNN
+F 3 "" H 5050 6700 50  0001 C CNN
+	1    5050 6700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:_T679-?-1E1F1 LED1
+U 1 1 7DC8C285
+P 7600 4000
+AR Path="/7DC8C285" Ref="LED1"  Part="1" 
+AR Path="/6193BDFD/7DC8C285" Ref="LED1"  Part="1" 
+F 0 "LED1" V 7740 3820 59  0000 L BNN
+F 1 "_T679-?-1E1F1" V 7825 3820 59  0001 L BNN
+F 2 "CD4007_Platform_V7:PLCC2" H 7600 4000 50  0001 C CNN
+F 3 "" H 7600 4000 50  0001 C CNN
+	1    7600 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:R-EU_R0603 R0
+U 1 1 429376BC
+P 7300 4000
+AR Path="/429376BC" Ref="R0"  Part="1" 
+AR Path="/6193BDFD/429376BC" Ref="R0"  Part="1" 
+F 0 "R0" H 7150 4059 59  0000 L BNN
+F 1 "R-EU_R0603" H 7150 3870 59  0000 L BNN
+F 2 "CD4007_Platform_V7:R0603" H 7300 4000 50  0001 C CNN
+F 3 "" H 7300 4000 50  0001 C CNN
+	1    7300 4000
+	-1   0    0    1   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:C-EUC0603K C10
+U 1 1 E6471815
+P 6500 6100
+AR Path="/E6471815" Ref="C10"  Part="1" 
+AR Path="/6193BDFD/E6471815" Ref="C10"  Part="1" 
+F 0 "C10" H 6560 6115 59  0000 L BNN
+F 1 "C-EUC0603K" H 6560 5915 59  0000 L BNN
+F 2 "CD4007_Platform_V7:C0603K" H 6500 6100 50  0001 C CNN
+F 3 "" H 6500 6100 50  0001 C CNN
+	1    6500 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:C-EUC0603K C11
+U 1 1 DC2BCD37
+P 6500 6400
+AR Path="/DC2BCD37" Ref="C11"  Part="1" 
+AR Path="/6193BDFD/DC2BCD37" Ref="C11"  Part="1" 
+F 0 "C11" H 6560 6415 59  0000 L BNN
+F 1 "C-EUC0603K" H 6560 6215 59  0000 L BNN
+F 2 "CD4007_Platform_V7:C0603K" H 6500 6400 50  0001 C CNN
+F 3 "" H 6500 6400 50  0001 C CNN
+	1    6500 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:C-EUC0603K C12
+U 1 1 C9F266B1
+P 6500 6700
+AR Path="/C9F266B1" Ref="C12"  Part="1" 
+AR Path="/6193BDFD/C9F266B1" Ref="C12"  Part="1" 
+F 0 "C12" H 6560 6715 59  0000 L BNN
+F 1 "C-EUC0603K" H 6560 6515 59  0000 L BNN
+F 2 "CD4007_Platform_V7:C0603K" H 6500 6700 50  0001 C CNN
+F 3 "" H 6500 6700 50  0001 C CNN
+	1    6500 6700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:C-EUC0603K C13
+U 1 1 E10CB6A7
+P 7975 6100
+AR Path="/E10CB6A7" Ref="C13"  Part="1" 
+AR Path="/6193BDFD/E10CB6A7" Ref="C13"  Part="1" 
+F 0 "C13" H 8035 6115 59  0000 L BNN
+F 1 "C-EUC0603K" H 8035 5915 59  0000 L BNN
+F 2 "CD4007_Platform_V7:C0603K" H 7975 6100 50  0001 C CNN
+F 3 "" H 7975 6100 50  0001 C CNN
+	1    7975 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:C-EUC0603K C14
+U 1 1 9D093897
+P 7975 6400
+AR Path="/9D093897" Ref="C14"  Part="1" 
+AR Path="/6193BDFD/9D093897" Ref="C14"  Part="1" 
+F 0 "C14" H 8035 6415 59  0000 L BNN
+F 1 "C-EUC0603K" H 8035 6215 59  0000 L BNN
+F 2 "CD4007_Platform_V7:C0603K" H 7975 6400 50  0001 C CNN
+F 3 "" H 7975 6400 50  0001 C CNN
+	1    7975 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:C-EUC0603K C15
+U 1 1 4EF73EC9
+P 7975 6700
+AR Path="/4EF73EC9" Ref="C15"  Part="1" 
+AR Path="/6193BDFD/4EF73EC9" Ref="C15"  Part="1" 
+F 0 "C15" H 8035 6715 59  0000 L BNN
+F 1 "C-EUC0603K" H 8035 6515 59  0000 L BNN
+F 2 "CD4007_Platform_V7:C0603K" H 7975 6700 50  0001 C CNN
+F 3 "" H 7975 6700 50  0001 C CNN
+	1    7975 6700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:C-EUC0603K C16
+U 1 1 D5459529
+P 9425 6100
+AR Path="/D5459529" Ref="C16"  Part="1" 
+AR Path="/6193BDFD/D5459529" Ref="C16"  Part="1" 
+F 0 "C16" H 9485 6115 59  0000 L BNN
+F 1 "C-EUC0603K" H 9485 5915 59  0000 L BNN
+F 2 "CD4007_Platform_V7:C0603K" H 9425 6100 50  0001 C CNN
+F 3 "" H 9425 6100 50  0001 C CNN
+	1    9425 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:C-EUC0603K C17
+U 1 1 CE46CD9A
+P 9425 6400
+AR Path="/CE46CD9A" Ref="C17"  Part="1" 
+AR Path="/6193BDFD/CE46CD9A" Ref="C17"  Part="1" 
+F 0 "C17" H 9485 6415 59  0000 L BNN
+F 1 "C-EUC0603K" H 9485 6215 59  0000 L BNN
+F 2 "CD4007_Platform_V7:C0603K" H 9425 6400 50  0001 C CNN
+F 3 "" H 9425 6400 50  0001 C CNN
+	1    9425 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:C-EUC0603K C18
+U 1 1 15F8A7BA
+P 9425 6700
+AR Path="/15F8A7BA" Ref="C18"  Part="1" 
+AR Path="/6193BDFD/15F8A7BA" Ref="C18"  Part="1" 
+F 0 "C18" H 9485 6715 59  0000 L BNN
+F 1 "C-EUC0603K" H 9485 6515 59  0000 L BNN
+F 2 "CD4007_Platform_V7:C0603K" H 9425 6700 50  0001 C CNN
+F 3 "" H 9425 6700 50  0001 C CNN
+	1    9425 6700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:10UF-TANT C19
+U 1 1 7D85CFC1
+P 7400 4600
+AR Path="/7D85CFC1" Ref="C19"  Part="1" 
+AR Path="/6193BDFD/7D85CFC1" Ref="C19"  Part="1" 
+F 0 "C19" H 7440 4625 59  0000 L BNN
+F 1 "10uF" H 7440 4435 59  0000 L BNN
+F 2 "CD4007_Platform_V7:EIA3216" H 7400 4600 50  0001 C CNN
+F 3 "" H 7400 4600 50  0001 C CNN
+	1    7400 4600
+	0    -1   -1   0   
+$EndComp
+Text GLabel 6900 4000 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	3700 4100 3500 4100
+Text GLabel 4600 3400 1    70   BiDi ~ 0
+DP1
+$Comp
+L CD4007_Platform_V7-eagle-import:CD4007 U333
+U 1 1 EF5D6D38
+P 4900 4100
+AR Path="/EF5D6D38" Ref="U333"  Part="1" 
+AR Path="/6193BDFD/EF5D6D38" Ref="U333"  Part="1" 
+F 0 "U333" H 4900 4100 50  0001 C CNN
+F 1 "CD4007" H 4900 4100 50  0001 C CNN
+F 2 "CD4007_Platform_V7:TSSOP14" H 4900 4100 50  0001 C CNN
+F 3 "" H 4900 4100 50  0001 C CNN
+	1    4900 4100
+	1    0    0    -1  
+$EndComp
+Text GLabel 2475 6700 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	6200 6100 6400 6100
+Text GLabel 6200 6100 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	6200 6400 6400 6400
+Text GLabel 6200 6400 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	6200 6700 6400 6700
+Text GLabel 6200 6700 0    70   BiDi ~ 0
+VDD
+$EndSCHEMATC

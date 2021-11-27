@@ -1,0 +1,557 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 5 6
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	4100 3700 4300 3700
+Text GLabel 4100 3700 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	4100 6000 4300 6000
+Text GLabel 4100 6000 0    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	4100 3800 4300 3800
+Text GLabel 4100 3800 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	4100 6100 4300 6100
+Text GLabel 4100 6100 0    70   BiDi ~ 0
+VSS
+Text GLabel 5400 4100 0    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	5600 6400 5400 6400
+Text GLabel 5600 6400 2    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	3400 2400 3400 2600
+Text GLabel 3400 2400 1    70   BiDi ~ 0
+VSS
+Wire Wire Line
+	4100 3600 4300 3600
+Text GLabel 4100 3600 2    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	4100 5900 4300 5900
+Text GLabel 4100 5900 0    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	5700 2200 5700 2400
+Text GLabel 5700 2200 1    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	5700 4500 5700 4700
+Text GLabel 5700 4500 1    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	5200 2400 5200 2200
+Text GLabel 5200 2200 1    70   BiDi ~ 0
+/SD
+Wire Wire Line
+	5200 4700 5200 4500
+Text GLabel 5200 4500 1    70   BiDi ~ 0
+/SD
+Wire Wire Line
+	5500 2400 5500 2100
+Text GLabel 5500 2100 1    70   BiDi ~ 0
+DO17
+Wire Wire Line
+	5600 2400 5600 2100
+Text Label 5600 2100 3    70   ~ 0
+DO18
+Wire Wire Line
+	5500 4700 5500 4400
+Text Label 5500 4400 3    70   ~ 0
+DO18
+Wire Wire Line
+	5600 4700 5600 4400
+Text GLabel 5600 4400 1    70   BiDi ~ 0
+DO19
+Wire Wire Line
+	6600 3400 7500 3400
+Wire Wire Line
+	6600 3300 7400 3300
+Wire Wire Line
+	7400 3300 7400 3200
+Wire Wire Line
+	7400 3200 7500 3200
+Wire Wire Line
+	7500 3000 7300 3000
+Wire Wire Line
+	7300 3000 7300 3200
+Wire Wire Line
+	7300 3200 6600 3200
+Wire Wire Line
+	7500 2800 7200 2800
+Wire Wire Line
+	7200 2800 7200 3100
+Wire Wire Line
+	7200 3100 6600 3100
+Wire Wire Line
+	6600 3000 7100 3000
+Wire Wire Line
+	7100 3000 7100 2600
+Wire Wire Line
+	7100 2600 7500 2600
+Wire Wire Line
+	6600 2900 7000 2900
+Wire Wire Line
+	7000 2900 7000 2400
+Wire Wire Line
+	7000 2400 7500 2400
+Wire Wire Line
+	6600 2800 6900 2800
+Wire Wire Line
+	6900 2800 6900 2200
+Wire Wire Line
+	6900 2200 7500 2200
+Wire Wire Line
+	6600 2700 6800 2700
+Wire Wire Line
+	6800 2700 6800 2000
+Wire Wire Line
+	6800 2000 7500 2000
+Wire Wire Line
+	7900 2000 7900 2200
+Wire Wire Line
+	7900 2200 7900 2400
+Wire Wire Line
+	7900 2400 7900 2600
+Wire Wire Line
+	7900 2600 7900 2700
+Wire Wire Line
+	7900 2700 7900 2800
+Wire Wire Line
+	7900 2800 7900 3000
+Wire Wire Line
+	7900 3000 7900 3200
+Wire Wire Line
+	7900 3200 7900 3400
+Wire Wire Line
+	7900 2700 8200 2700
+Connection ~ 7900 2200
+Connection ~ 7900 2400
+Connection ~ 7900 2600
+Connection ~ 7900 2800
+Connection ~ 7900 3000
+Connection ~ 7900 3200
+Connection ~ 7900 2700
+Text GLabel 8200 2700 3    70   BiDi ~ 0
+R1N
+Wire Wire Line
+	6600 5700 7500 5700
+Wire Wire Line
+	6600 5600 7400 5600
+Wire Wire Line
+	7400 5600 7400 5500
+Wire Wire Line
+	7400 5500 7500 5500
+Wire Wire Line
+	6600 5500 7300 5500
+Wire Wire Line
+	7300 5500 7300 5300
+Wire Wire Line
+	7300 5300 7500 5300
+Wire Wire Line
+	6600 5400 7200 5400
+Wire Wire Line
+	7200 5400 7200 5100
+Wire Wire Line
+	7200 5100 7500 5100
+Wire Wire Line
+	6600 5300 7100 5300
+Wire Wire Line
+	7100 5300 7100 4900
+Wire Wire Line
+	7100 4900 7500 4900
+Wire Wire Line
+	6600 5200 7000 5200
+Wire Wire Line
+	7000 5200 7000 4700
+Wire Wire Line
+	7000 4700 7500 4700
+Wire Wire Line
+	6600 5100 6900 5100
+Wire Wire Line
+	6900 5100 6900 4500
+Wire Wire Line
+	6900 4500 7500 4500
+Wire Wire Line
+	6600 5000 6800 5000
+Wire Wire Line
+	6800 5000 6800 4300
+Wire Wire Line
+	6800 4300 7500 4300
+Wire Wire Line
+	7900 5100 7900 5000
+Wire Wire Line
+	7900 5000 7900 4900
+Wire Wire Line
+	7900 5300 7900 5100
+Wire Wire Line
+	7900 5500 7900 5300
+Wire Wire Line
+	7900 5700 7900 5500
+Wire Wire Line
+	7900 4900 7900 4700
+Wire Wire Line
+	7900 4700 7900 4500
+Wire Wire Line
+	7900 4500 7900 4300
+Wire Wire Line
+	7900 5000 8200 5000
+Connection ~ 7900 5100
+Connection ~ 7900 5300
+Connection ~ 7900 5500
+Connection ~ 7900 4900
+Connection ~ 7900 4700
+Connection ~ 7900 4500
+Connection ~ 7900 5000
+Text GLabel 8200 5000 3    70   BiDi ~ 0
+R2N
+Wire Wire Line
+	4300 5700 4300 5600
+Wire Wire Line
+	4300 5600 4300 5500
+Wire Wire Line
+	4300 5500 4300 5400
+Wire Wire Line
+	4300 5400 4300 5300
+Wire Wire Line
+	4300 5300 4300 5200
+Wire Wire Line
+	4300 5200 4300 5100
+Wire Wire Line
+	4300 5100 4300 5000
+Connection ~ 4300 5600
+Connection ~ 4300 5500
+Connection ~ 4300 5400
+Connection ~ 4300 5300
+Connection ~ 4300 5200
+Connection ~ 4300 5100
+Wire Wire Line
+	4300 3400 4300 3300
+Wire Wire Line
+	4300 3300 4300 3200
+Wire Wire Line
+	4300 3200 4300 3100
+Wire Wire Line
+	4300 3100 4300 3000
+Wire Wire Line
+	4300 3000 4300 2900
+Wire Wire Line
+	4300 2900 4300 2800
+Wire Wire Line
+	4300 2800 4300 2700
+Connection ~ 4300 3300
+Connection ~ 4300 3200
+Connection ~ 4300 3100
+Connection ~ 4300 3000
+Connection ~ 4300 2900
+Connection ~ 4300 2800
+Text GLabel 4300 3100 0    70   BiDi ~ 0
+R1P
+Text GLabel 3300 4125 3    70   BiDi ~ 0
+/CS3
+Wire Wire Line
+	5300 2400 5300 2200
+Text GLabel 5300 2200 1    70   BiDi ~ 0
+/CS3
+Wire Wire Line
+	5300 4700 5300 4500
+Text GLabel 5300 4500 1    70   BiDi ~ 0
+/CS3
+Wire Wire Line
+	3500 4100 3500 3900
+Text GLabel 3500 4100 3    70   BiDi ~ 0
+CLK3
+Wire Wire Line
+	5400 2400 5400 2200
+Text GLabel 5400 2200 1    70   BiDi ~ 0
+CLK3
+Wire Wire Line
+	5400 4700 5400 4500
+Text GLabel 5400 4500 1    70   BiDi ~ 0
+CLK3
+Wire Wire Line
+	3300 2600 3300 2400
+Text GLabel 3300 2400 1    70   BiDi ~ 0
+/CS2
+Wire Wire Line
+	3500 2600 3500 2400
+Text GLabel 3500 2400 1    70   BiDi ~ 0
+CLK2
+$Comp
+L CD4007_Platform_V7-eagle-import:MAX14662 U18
+U 1 1 84ABBA4D
+P 5400 3200
+AR Path="/84ABBA4D" Ref="U18"  Part="1" 
+AR Path="/6193C067/84ABBA4D" Ref="U18"  Part="1" 
+F 0 "U18" H 5400 3200 50  0001 C CNN
+F 1 "MAX14662" H 5400 3200 50  0001 C CNN
+F 2 "CD4007_Platform_V7:QFN-28_UF" H 5400 3200 50  0001 C CNN
+F 3 "" H 5400 3200 50  0001 C CNN
+	1    5400 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:MAX14662 U19
+U 1 1 596302D7
+P 5400 5500
+AR Path="/596302D7" Ref="U19"  Part="1" 
+AR Path="/6193C067/596302D7" Ref="U19"  Part="1" 
+F 0 "U19" H 5400 5500 50  0001 C CNN
+F 1 "MAX14662" H 5400 5500 50  0001 C CNN
+F 2 "CD4007_Platform_V7:QFN-28_UF" H 5400 5500 50  0001 C CNN
+F 3 "" H 5400 5500 50  0001 C CNN
+	1    5400 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:R-EU_R0603 R1
+U 1 1 54673866
+P 7700 2000
+AR Path="/54673866" Ref="R1"  Part="1" 
+AR Path="/6193C067/54673866" Ref="R1"  Part="1" 
+F 0 "R1" H 7550 2059 59  0000 L BNN
+F 1 "R-EU_R0603" H 7550 1870 59  0000 L BNN
+F 2 "CD4007_Platform_V7:R0603" H 7700 2000 50  0001 C CNN
+F 3 "" H 7700 2000 50  0001 C CNN
+	1    7700 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:R-EU_R0603 R2
+U 1 1 855FDFDB
+P 7700 2200
+AR Path="/855FDFDB" Ref="R2"  Part="1" 
+AR Path="/6193C067/855FDFDB" Ref="R2"  Part="1" 
+F 0 "R2" H 7550 2259 59  0000 L BNN
+F 1 "R-EU_R0603" H 7550 2070 59  0000 L BNN
+F 2 "CD4007_Platform_V7:R0603" H 7700 2200 50  0001 C CNN
+F 3 "" H 7700 2200 50  0001 C CNN
+	1    7700 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:R-EU_R0603 R3
+U 1 1 A00BD228
+P 7700 2400
+AR Path="/A00BD228" Ref="R3"  Part="1" 
+AR Path="/6193C067/A00BD228" Ref="R3"  Part="1" 
+F 0 "R3" H 7550 2459 59  0000 L BNN
+F 1 "R-EU_R0603" H 7550 2270 59  0000 L BNN
+F 2 "CD4007_Platform_V7:R0603" H 7700 2400 50  0001 C CNN
+F 3 "" H 7700 2400 50  0001 C CNN
+	1    7700 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:R-EU_R0603 R5
+U 1 1 CAE48B39
+P 7700 2800
+AR Path="/CAE48B39" Ref="R5"  Part="1" 
+AR Path="/6193C067/CAE48B39" Ref="R5"  Part="1" 
+F 0 "R5" H 7550 2859 59  0000 L BNN
+F 1 "R-EU_R0603" H 7550 2670 59  0000 L BNN
+F 2 "CD4007_Platform_V7:R0603" H 7700 2800 50  0001 C CNN
+F 3 "" H 7700 2800 50  0001 C CNN
+	1    7700 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:R-EU_R0603 R6
+U 1 1 1BE7E303
+P 7700 3000
+AR Path="/1BE7E303" Ref="R6"  Part="1" 
+AR Path="/6193C067/1BE7E303" Ref="R6"  Part="1" 
+F 0 "R6" H 7550 3059 59  0000 L BNN
+F 1 "R-EU_R0603" H 7550 2870 59  0000 L BNN
+F 2 "CD4007_Platform_V7:R0603" H 7700 3000 50  0001 C CNN
+F 3 "" H 7700 3000 50  0001 C CNN
+	1    7700 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:R-EU_R0603 R7
+U 1 1 E67A151D
+P 7700 3200
+AR Path="/E67A151D" Ref="R7"  Part="1" 
+AR Path="/6193C067/E67A151D" Ref="R7"  Part="1" 
+F 0 "R7" H 7550 3259 59  0000 L BNN
+F 1 "R-EU_R0603" H 7550 3070 59  0000 L BNN
+F 2 "CD4007_Platform_V7:R0603" H 7700 3200 50  0001 C CNN
+F 3 "" H 7700 3200 50  0001 C CNN
+	1    7700 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:R-EU_R0603 R8
+U 1 1 3B37D644
+P 7700 3400
+AR Path="/3B37D644" Ref="R8"  Part="1" 
+AR Path="/6193C067/3B37D644" Ref="R8"  Part="1" 
+F 0 "R8" H 7550 3459 59  0000 L BNN
+F 1 "R-EU_R0603" H 7550 3270 59  0000 L BNN
+F 2 "CD4007_Platform_V7:R0603" H 7700 3400 50  0001 C CNN
+F 3 "" H 7700 3400 50  0001 C CNN
+	1    7700 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:R-EU_R0603 R9
+U 1 1 295F0D93
+P 7700 4300
+AR Path="/295F0D93" Ref="R9"  Part="1" 
+AR Path="/6193C067/295F0D93" Ref="R9"  Part="1" 
+F 0 "R9" H 7550 4359 59  0000 L BNN
+F 1 "R-EU_R0603" H 7550 4170 59  0000 L BNN
+F 2 "CD4007_Platform_V7:R0603" H 7700 4300 50  0001 C CNN
+F 3 "" H 7700 4300 50  0001 C CNN
+	1    7700 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:R-EU_R0603 R10
+U 1 1 CB121278
+P 7700 4500
+AR Path="/CB121278" Ref="R10"  Part="1" 
+AR Path="/6193C067/CB121278" Ref="R10"  Part="1" 
+F 0 "R10" H 7550 4559 59  0000 L BNN
+F 1 "R-EU_R0603" H 7550 4370 59  0000 L BNN
+F 2 "CD4007_Platform_V7:R0603" H 7700 4500 50  0001 C CNN
+F 3 "" H 7700 4500 50  0001 C CNN
+	1    7700 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:R-EU_R0603 R11
+U 1 1 3D3C6285
+P 7700 4700
+AR Path="/3D3C6285" Ref="R11"  Part="1" 
+AR Path="/6193C067/3D3C6285" Ref="R11"  Part="1" 
+F 0 "R11" H 7550 4759 59  0000 L BNN
+F 1 "R-EU_R0603" H 7550 4570 59  0000 L BNN
+F 2 "CD4007_Platform_V7:R0603" H 7700 4700 50  0001 C CNN
+F 3 "" H 7700 4700 50  0001 C CNN
+	1    7700 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:R-EU_R0603 R12
+U 1 1 F26279CE
+P 7700 4900
+AR Path="/F26279CE" Ref="R12"  Part="1" 
+AR Path="/6193C067/F26279CE" Ref="R12"  Part="1" 
+F 0 "R12" H 7550 4959 59  0000 L BNN
+F 1 "R-EU_R0603" H 7550 4770 59  0000 L BNN
+F 2 "CD4007_Platform_V7:R0603" H 7700 4900 50  0001 C CNN
+F 3 "" H 7700 4900 50  0001 C CNN
+	1    7700 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:R-EU_R0603 R13
+U 1 1 5D2526FC
+P 7700 5100
+AR Path="/5D2526FC" Ref="R13"  Part="1" 
+AR Path="/6193C067/5D2526FC" Ref="R13"  Part="1" 
+F 0 "R13" H 7550 5159 59  0000 L BNN
+F 1 "R-EU_R0603" H 7550 4970 59  0000 L BNN
+F 2 "CD4007_Platform_V7:R0603" H 7700 5100 50  0001 C CNN
+F 3 "" H 7700 5100 50  0001 C CNN
+	1    7700 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:R-EU_R0603 R14
+U 1 1 52B5C5D8
+P 7700 5300
+AR Path="/52B5C5D8" Ref="R14"  Part="1" 
+AR Path="/6193C067/52B5C5D8" Ref="R14"  Part="1" 
+F 0 "R14" H 7550 5359 59  0000 L BNN
+F 1 "R-EU_R0603" H 7550 5170 59  0000 L BNN
+F 2 "CD4007_Platform_V7:R0603" H 7700 5300 50  0001 C CNN
+F 3 "" H 7700 5300 50  0001 C CNN
+	1    7700 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:R-EU_R0603 R15
+U 1 1 E6A0BE1A
+P 7700 5500
+AR Path="/E6A0BE1A" Ref="R15"  Part="1" 
+AR Path="/6193C067/E6A0BE1A" Ref="R15"  Part="1" 
+F 0 "R15" H 7550 5559 59  0000 L BNN
+F 1 "R-EU_R0603" H 7550 5370 59  0000 L BNN
+F 2 "CD4007_Platform_V7:R0603" H 7700 5500 50  0001 C CNN
+F 3 "" H 7700 5500 50  0001 C CNN
+	1    7700 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:R-EU_R0603 R16
+U 1 1 9DD04142
+P 7700 5700
+AR Path="/9DD04142" Ref="R16"  Part="1" 
+AR Path="/6193C067/9DD04142" Ref="R16"  Part="1" 
+F 0 "R16" H 7550 5759 59  0000 L BNN
+F 1 "R-EU_R0603" H 7550 5570 59  0000 L BNN
+F 2 "CD4007_Platform_V7:R0603" H 7700 5700 50  0001 C CNN
+F 3 "" H 7700 5700 50  0001 C CNN
+	1    7700 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L CD4007_Platform_V7-eagle-import:R-EU_R0603 R4
+U 1 1 BA9F59F4
+P 7700 2600
+AR Path="/BA9F59F4" Ref="R4"  Part="1" 
+AR Path="/6193C067/BA9F59F4" Ref="R4"  Part="1" 
+F 0 "R4" H 7550 2659 59  0000 L BNN
+F 1 "R-EU_R0603" H 7550 2470 59  0000 L BNN
+F 2 "CD4007_Platform_V7:R0603" H 7700 2600 50  0001 C CNN
+F 3 "" H 7700 2600 50  0001 C CNN
+	1    7700 2600
+	1    0    0    -1  
+$EndComp
+Text Notes 5800 3800 0    85   ~ 0
+18
+Text Notes 5800 6100 0    85   ~ 0
+19
+Text Notes 6925 3850 0    59   ~ 0
+51 5.1k 9.1k 18k 33k 56k 110k 200k
+$Comp
+L CD4007_Platform_V7-eagle-import:74LVC2G17 U112
+U 1 1 8ED259F2
+P 3400 3200
+AR Path="/8ED259F2" Ref="U112"  Part="1" 
+AR Path="/6193C067/8ED259F2" Ref="U112"  Part="1" 
+F 0 "U112" H 3400 3200 50  0001 C CNN
+F 1 "74LVC2G17" H 3400 3200 50  0001 C CNN
+F 2 "CD4007_Platform_V7:SOT363_PHILIPS" H 3400 3200 50  0001 C CNN
+F 3 "" H 3400 3200 50  0001 C CNN
+	1    3400 3200
+	0    1    1    0   
+$EndComp
+Text GLabel 3400 4125 3    70   BiDi ~ 0
+VDD
+Wire Wire Line
+	3300 4125 3300 3900
+Wire Wire Line
+	3400 4125 3400 3900
+Text GLabel 4300 5400 0    70   BiDi ~ 0
+R2P
+$EndSCHEMATC
